@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jsonhall
 - 👀 I’m interested in business and technology.
-- 🌱 I’m currently learning React, IPFS.
+- 🌱 I’m currently learning React, IPFS, Substate.
 - 💞️ I’m looking to collaborate on agile projects as a Scrum Master or Product Owner.
-- 📫 How to reach me ...
+- 📫 Reach me via email.
 
 <!---
 jsonhall/jsonhall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
