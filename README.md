@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jsonhall
 - 👀 I’m interested in business and technology.
 - 🌱 I’m currently learning React, IPFS.
-- 💞️ I’m looking to collaborate on projects as a Scrum Master or Product Owner.
+- 💞️ I’m looking to collaborate on agile projects as a Scrum Master or Product Owner.
 - 📫 How to reach me ...
 
 <!---
