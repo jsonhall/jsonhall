@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsonhall
 - 👀 I’m interested in business and technology.
-- 🌱 I’m currently learning React, IPFS, Substate.
+- 🌱 I’m currently learning IPFS, Substrate.
 - 💞️ I’m looking to collaborate on agile projects as a Scrum Master or Product Owner.
 - 📫 Reach me via email.
 
